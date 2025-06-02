@@ -1,10 +1,9 @@
 ---
 title: The Other
 images:
-  - klee.png
+  - klee.jpeg
 ---
 
 ## Paul Klee
 
-![book pic](klee.jpg)
-
+![book pic](klee.jpeg)

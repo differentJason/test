@@ -1,8 +1,8 @@
 ---
+build:
+  list: never
+  render: never
 title: A page
-topics:
-    - this
-    - that
 ---
 
 Blah Blah Blah

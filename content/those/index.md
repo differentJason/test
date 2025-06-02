@@ -1,8 +1,8 @@
 ---
+build:
+  list: never
+  render: never
 title: The Other
-topics:
-  = the-other
 ---
 
 There are other ones too
-

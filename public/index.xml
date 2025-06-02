@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A page on Hugo Book</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in A page on Hugo Book</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Other</title>
+      <link>http://localhost:1313/those/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/those/</guid>
+      <description>&lt;p&gt;There are other ones too&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>That</title>
+      <link>http://localhost:1313/_topics/that/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_topics/that/</guid>
+      <description>&lt;p&gt;That one time there was a picture in a book.&lt;/p&gt;&#xA;&lt;p&gt;Now, each topic is rendered as its own HTML section with the title, link, and the topic&amp;rsquo;s HTML content. If there are no topics, the bundle itself is rendered similarly. This removes any list structure and outputs full HTML for each topic as requested.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;sybspud.jpeg&#34; alt=&#34;read and sit&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Other</title>
+      <link>http://localhost:1313/_topics/the-other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_topics/the-other/</guid>
+      <description>&lt;h2 id=&#34;paul-klee&#34;&gt;&#xA;  Paul Klee&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#paul-klee&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;klee.jpeg&#34; alt=&#34;book pic&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Others</title>
+      <link>http://localhost:1313/_topics/this/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_topics/this/</guid>
+      <description>&lt;p&gt;There are other ones too&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
