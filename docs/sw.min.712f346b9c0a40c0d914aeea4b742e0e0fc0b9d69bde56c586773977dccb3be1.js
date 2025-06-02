@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("differentjason.github.io/test/sw.js",{scope:"/differentjason.github.io/test/"})
